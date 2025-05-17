@@ -147,7 +147,7 @@ const App = () => {
       scrollTrigger:{
         trigger:".learning",
         scrub:true,
-        markers:true,
+        //markers:true,
         start:"top 80%",
         end:"top 40%",
 
